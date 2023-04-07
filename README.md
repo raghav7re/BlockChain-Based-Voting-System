@@ -2,6 +2,8 @@ I am currently working on making this project live.
 When it will be live i will upload the link here.
 It will be done by monday morning.
 
+For a proper project description read the project report in the folder.
+
 # BlockChain-Based-Voting-System
 
 # Abstract
