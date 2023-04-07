@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html>
+
+    <script type="module" src="./mq.js"></script>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+        integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <style>
+    body {
+        text-align:center;
+  background-image: url('RajBack.jpg');
+ 
+   object-fit: cover;
+
+   text-align:center;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  align-content: center;
+  align-self: center;
+  text-align:center;
+  margin-left: auto;
+  margin-right: auto;
+text-align:center;
+}
+th, td {
+  background-color: #96D4D4;
+  text-align:center;
+}
+h1 {
+    display: block;
+    font-size: 3em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    color: orangered;
+    align-content: self;
+    text-align:center;
+}
+
+footer {
+  text-align: center;
+  padding: 8;
+  color:#138808;
+  
+}
+
+
+</style>
+    <title>Blockchain Virtual Voting System </title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+     <link rel="shortcut icon" type="image/png" href="Emblem.png">
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
+</head>
+
+<body  >
+    
+<center> 
+ <div >
+        
+            <h1>Blockchain Virtual Voting System </h1>
+            <div class="container">
+               
+                <table class="table" width="500px" border = 1>
+                  <thead>
+                    <tr>
+                      <th scope="col">Candidates</th>
+                      <th scope="col" id="cad8">Candidate 8</th>
+                      <th scope="col" id="cad9">Candidate 9</th>
+                      <th scope="col" id="cad10">Candidate 10</th>
+                      <th scope="col" id="cad11">Candidate 11</th>
+                     
+                    </tr>
+                  </thead>
+                  <tbody>
+                    
+                    <tr>
+                     
+                    <td ></td>
+                      <td > <center> <img src="img13.jpg" width="90px" height="90px"> </center> </td>
+                      <td > <center> <img src="img14.webp" width="100px" height="100px"></center>  </td>
+                      <td > <center> <img src="img15.jpg" width="90px" height="90px"></center> </td>
+                      <td > <center> <img src="img16.webp" width="90px" height="90px"></center> </td>
+                    
+                    </tr>
+                    
+                    <td ></td>
+                    
+                      <td ><button type="buttton" onclick="Vote(0x690854ccAae9A9B581B12a40A035b7B5e4788ABe)"  class="btn btn-primary">Vote</button></td>
+                      <td><button type="buttton" onclick="Vote(0x12cF65d7A64794D157b70B8B7703fDC518c24a30)" class="btn btn-primary">Vote</button></td>
+                      <td><button type="buttton" onclick="Vote(0xb40E9B0198eb166D8FAbCD03F94322C9427b702F)" class="btn btn-primary">Vote</button></td> 
+                      <td><button type="buttton" onclick="Vote(0xa54ec29fC6bB89b413A3d04dF16C03D25fb05F3A)" class="btn btn-primary">Vote</button></td> 
+        
+                    </tr>
+                    
+                       <tr>
+                        <th scope="row">Votes</th>
+                        <td id="cad8count"><center>0</center></td>
+                        <td id="cad9count"><center>0</center></td>
+                        <td id="cad10count"><center>0</center></td>
+                        <td id="cad11count"><center>0</center></td>
+                      </tr>
+
+                  </tbody>
+                </table>
+                
+            </div>
+            </br>
+            <footer>
+
+                <font size="5" face="verdana" > Developed by  Group No. 30 </font>
+            </footer>
+        
+    </div>
+    
+    <script  type="module">
+                  
+
+    import {Vote } from './mqwer.js';
+    window.Vote=Vote;
+    document.querySelector('button').addEventListener('click', () => {
+      //Vote(0x690854ccAae9A9B581B12a40A035b7B5e4788ABe);
+  
+});
+    console.log(Vote);
+
+    //document.getElementById("clickMe").onclick = Vote();
+    //module.Vote=Vote;
+</script>
+
+<script >
+//const module ={ };
+
+
+    async function Vote(cad){
+                  console.log(myContract);
+                const accounts = await window.ethereum.request({method: 'eth_requestAccounts'});
+             let account = accounts[0];
+    
+             //await myContract.methods.sendRAJBJP().send({from:web3.utils.toChecksumAddress(account),value: 1e18  },function(err, result){});
+                //myContract.methods.sendRAJBJP().send({from:0xaDa50cA0B525f202c706791c4c3c802D0dD6Be5E,value: 1e18  },function(err, result){})
+                /*if (cad==0x690854ccAae9A9B581B12a40A035b7B5e4788ABe)
+                        {  
+                          // await myContract.methods.sendRAJBJP().send({from:0xaDa50cA0B525f202c706791c4c3c802D0dD6Be5E,value: 1e18  },function(err, result){})
+                            //await myContract.sendRAJBJP({value: 1e18 }, function(err, result){})
+                        }
+                    else if(cad==0x12cF65d7A64794D157b70B8B7703fDC518c24a30)
+                    {
+                        await myContract.methods.sendRAJCong().send({value: 1e18  },function(err, result){})
+                          //  await myContract.sendRAJCong({value: 1e18 },function(err, result){})
+                        }
+                        else if (cad == 0xb40E9B0198eb166D8FAbCD03F94322C9427b702F) 
+                        {
+                            myContract.methods.sendRAJJD().send({value: 1e18  },function(err, result){})
+                            //await myContract.sendRAJJD( {value: 1e18 },function(err, result){})
+                        }
+                    else if (cad == 0xa54ec29fC6bB89b413A3d04dF16C03D25fb05F3A) 
+                    {
+                        myContract.methods.sendRAJAap().send({value: 1e18  },function(err, result){})
+                        //await myContract.sendRAJAap( {value: 1e18 },function(err, result){})
+                    }
+                    else {
+                           console.log(cad+"vote is not working"); 
+                        }
+                        /* await myContract.vote(cad, function(err, result){
+                            
+                    if(!err){
+                        console.log("We are winning!");
+                    } else{
+                        console.log("Can not connect to the smart contract");
+                    }
+                
+                })*/
+            }
+        </script>
+    <script src="js/web3/src/index.js"></script>
+    <script src="js/web3.min.js"></script>
+
+    <script type="module" src="./mqwer.js"></script>
+
+    <script src="js/contract.js"></script>
+    <script type="module" src="./mq.js"></script>
+
+    
+</body>
+</html>
+
+
+

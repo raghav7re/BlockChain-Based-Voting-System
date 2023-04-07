@@ -1,0 +1,16 @@
+{
+  "name": "2p2r",
+  "version": "1.0.0",
+  "description": "a live virtual voting system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "requirejs": "^2.3.6",
+    "web3": "^1.7.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
