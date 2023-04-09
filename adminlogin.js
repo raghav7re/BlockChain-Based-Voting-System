@@ -12,7 +12,7 @@ else if(form.userAadhaarNo.value == "ZZZZ" && form.pwd.value == "RAJ")
 {
   alert("We see you are from Rajasthan");
   localStorage.setItem("code", "secret");
-  window.location.href = "mainRaj.html";
+  window.location.href = "/public/mainRaj.html";
   
 }
 else if(form.userAadhaarNo.value == "YYYY" && form.pwd.value == "UPUP")

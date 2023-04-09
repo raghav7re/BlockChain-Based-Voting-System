@@ -6,8 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "scripts": {
+  	"ganache": "ganache --wallet.seed myCustomSeed"
+	},
   "dependencies": {
     "express": "^4.15.2",
+    "ganache": "^7.7.7",
+    "ganache-cli": "^6.12.2",
     "requirejs": "^2.3.6",
     "web3": "^1.7.3"
   },
