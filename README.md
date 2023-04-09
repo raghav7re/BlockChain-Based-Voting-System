@@ -1,6 +1,6 @@
 I am currently working on making this project live.
 When it will be live i will upload the link here.
-It will be done by monday morning.
+It's gonna take two more days
 
 For a proper project description read the project report in the folder.
 
@@ -16,13 +16,12 @@ The purpose of this research project is to develop a decentralized e-voting syst
 
 The voting process is transparent and public while protecting voter anonymity, the privacy of data transmission, and the verifiable results of the voting..
 
-![alt text](https://github.com/raghav7re/BlockChain-Based-Voting-System/public/imq/main/image.jpg?raw=true)
-![alt text](https://github.com/raghav7re/BlockChain-Based-Voting-System/blob/main/image.jpg?raw=true)
-![alt text](https://github.com/raghav7re/BlockChain-Based-Voting-System/blob/main/image.jpg?raw=true)
-![alt text](https://github.com/raghav7re/BlockChain-Based-Voting-System/blob/main/image.jpg?raw=true)
-![alt text](https://github.com/raghav7re/BlockChain-Based-Voting-System/blob/main/image.jpg?raw=true)
-![alt text](https://github.com/raghav7re/BlockChain-Based-Voting-System/blob/main/image.jpg?raw=true)
-![alt text](https://github.com/raghav7re/BlockChain-Based-Voting-System/blob/main/image.jpg?raw=true)
+![alt text](https://github.com/raghav7re/BlockChain-Based-Voting-System/blob/main/public/imq/Screenshot%20from%202023-04-10%2002-42-20.png?raw=true)
+![alt text](https://github.com/raghav7re/BlockChain-Based-Voting-System/blob/main/public/imq/Screenshot%20from%202023-04-10%2002-42-23.png?raw=true)
+![alt text](https://github.com/raghav7re/BlockChain-Based-Voting-System/blob/main/public/imq/Screenshot%20from%202023-04-10%2002-40-22.png?raw=true)
+![alt text](https://github.com/raghav7re/BlockChain-Based-Voting-System/blob/main/public/imq/Screenshot%20from%202023-04-10%2002-40-25.png?raw=true)
+![alt text](https://github.com/raghav7re/BlockChain-Based-Voting-System/blob/main/public/imq/Screenshot%20from%202023-04-10%2002-40-44.png?raw=true)
+![alt text](https://github.com/raghav7re/BlockChain-Based-Voting-System/blob/main/public/imq/Screenshot%20from%202023-04-10%2002-40-54.png?raw=true)
 
 ## Table of Contents
 * Abstract 
