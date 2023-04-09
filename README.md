@@ -16,7 +16,13 @@ The purpose of this research project is to develop a decentralized e-voting syst
 
 The voting process is transparent and public while protecting voter anonymity, the privacy of data transmission, and the verifiable results of the voting..
 
-
+![alt text](https://github.com/raghav7re/BlockChain-Based-Voting-System/public/imq/main/image.jpg?raw=true)
+![alt text](https://github.com/raghav7re/BlockChain-Based-Voting-System/blob/main/image.jpg?raw=true)
+![alt text](https://github.com/raghav7re/BlockChain-Based-Voting-System/blob/main/image.jpg?raw=true)
+![alt text](https://github.com/raghav7re/BlockChain-Based-Voting-System/blob/main/image.jpg?raw=true)
+![alt text](https://github.com/raghav7re/BlockChain-Based-Voting-System/blob/main/image.jpg?raw=true)
+![alt text](https://github.com/raghav7re/BlockChain-Based-Voting-System/blob/main/image.jpg?raw=true)
+![alt text](https://github.com/raghav7re/BlockChain-Based-Voting-System/blob/main/image.jpg?raw=true)
 
 ## Table of Contents
 * Abstract 
