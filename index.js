@@ -201,7 +201,7 @@ var myContract = new web3.eth.Contract([
 		"stateMutability": "view",
 		"type": "function"
 	}
-],web3.utils.toChecksumAddress('0xa6E940d07E214Da2b9e6580318383D40F10557AB'));
+],web3.utils.toChecksumAddress('0xABBbe3b9107Ff6ed1252Ce4CA7bF53362Ae23A86'));
 
 var Accounts = require('web3-eth-accounts');
 var accounts = new Accounts('HTTP://0.0.0.0:7545');

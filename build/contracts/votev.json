@@ -4370,7 +4370,7 @@
   ],
   "sourceMap": "33:6917:0:-:0;;;761:69;;;;;;;;;;;;;;;;;;787:42;761:12;;;:69;;:::i;:::-;840:74;;;;;;;;;;;;;;;;;;871:42;840:12;;;:74;;:::i;:::-;924:69;;;;;;;;;;;;;;;;;;950:42;924:12;;;:69;;:::i;:::-;1003:72;;;;;;;;;;;;;;;;;;1032:42;1003:12;;;:72;;:::i;:::-;1085:80;;;;;;;;;;;;;;;;;;1122:42;1085:12;;;:80;;:::i;:::-;1175:74;;;;;;;;;;;;;;;;;;1206:42;1175:12;;;:74;;:::i;:::-;1259:75;;;;;;;;;;;;;;;;;;1291:42;1259:12;;;:75;;:::i;:::-;1344:77;;;;;;;;;;;;;;;;;;1378:42;1344:12;;;:77;;:::i;:::-;1431:79;;;;;;;;;;;;;;;;;;1467:42;1431:12;;;:79;;:::i;:::-;1520:75;;;;;;;;;;;;;;;;;;1552:42;1520:12;;;:75;;:::i;:::-;1605:77;;;;;;;;;;;;;;;;;;1639:42;1605:12;;;:77;;:::i;:::-;33:6917;;1699:183;1771:14;;:16;;;;;;;;;:::i;:::-;;;;;;1825:50;;;;;;;;1835:4;1825:50;;;;;;1841:5;1825:50;;;;1870:4;1856;1848:21;;;:26;;;;:::i;:::-;1825:50;;;1806:10;:16;1817:4;1806:16;;;;;;;;;;;;;;;:69;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:::i;:::-;;;;;;;;;;;;;1699:183;;:::o;33:6917::-;;;;;;;:::i;:::-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:::i;:::-;;;:::o;:::-;;;;;;;;;;;;;;;;;;;;;:::o;7:180:1:-;55:77;52:1;45:88;152:4;149:1;142:15;176:4;173:1;166:15;193:77;230:7;259:5;248:16;;193:77;;;:::o;276:233::-;315:3;338:24;356:5;338:24;:::i;:::-;329:33;;384:66;377:5;374:77;371:103;;454:18;;:::i;:::-;371:103;501:1;494:5;490:13;483:20;;276:233;;;:::o;515:180::-;563:77;560:1;553:88;660:4;657:1;650:15;684:4;681:1;674:15;701:185;741:1;758:20;776:1;758:20;:::i;:::-;753:25;;792:20;810:1;792:20;:::i;:::-;787:25;;831:1;821:35;;836:18;;:::i;:::-;821:35;878:1;875;871:9;866:14;;701:185;;;;:::o;892:180::-;940:77;937:1;930:88;1037:4;1034:1;1027:15;1061:4;1058:1;1051:15;1078:320;1122:6;1159:1;1153:4;1149:12;1139:22;;1206:1;1200:4;1196:12;1227:18;1217:81;;1283:4;1275:6;1271:17;1261:27;;1217:81;1345:2;1337:6;1334:14;1314:18;1311:38;1308:84;;1364:18;;:::i;:::-;1308:84;1129:269;1078:320;;;:::o;33:6917:0:-;;;;;;;",
   "deployedSourceMap": "33:6917:0:-:0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;5188:434;;;:::i;:::-;;3002:424;;;:::i;:::-;;4750:433;;;:::i;:::-;;5627:435;;;:::i;:::-;;314:48;;;;;;;;;;;;;;;;;;;;;;;:::i;:::-;;:::i;:::-;;;;;;;;;:::i;:::-;;;;;;;;4312:432;;;:::i;:::-;;1887:232;;;;;;;;;;;;;;;;;;;;;;;:::i;:::-;;:::i;:::-;;;;;;;;;:::i;:::-;;;;;;;;6510:433;;;:::i;:::-;;639:38;;;;;;;;;;;;;;;;;;;;;;;:::i;:::-;;:::i;:::-;;;;;;;:::i;:::-;;;;;;;;3871:435;;;:::i;:::-;;6067:434;;;:::i;:::-;;682:26;;;;;;;;;;;;;:::i;:::-;;;;;;;:::i;:::-;;;;;;;;2571:426;;;:::i;:::-;;3431:435;;;:::i;:::-;;2130:431;;;:::i;:::-;;5188:434;5253:5;:17;5259:10;5253:17;;;;;;;;;;;;;;;;;;;;;;;;;5252:18;5244:27;;;;;;5281:11;5301:42;5281:63;;5377:9;5388:17;5409:3;:8;;5426:7;5409:29;;;;;:::i;:::-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;5376:62;;;;5468:4;5448:5;:17;5454:10;5448:17;;;;;;;;;;;;;;;;:24;;;;;;;;;;;;;;;;;;5490:4;5482:37;;;;;;;;;;;;:::i;:::-;;;;;;;;;5576:4;5563:3;5555:20;;;:25;;;;:::i;:::-;5529:10;:15;5540:3;5529:15;;;;;;;;;;;;;;;:25;;:51;;;;5606:3;5595:16;;;;;;;;;;;;5234:388;;;5188:434::o;3002:424::-;3059:5;:17;3065:10;3059:17;;;;;;;;;;;;;;;;;;;;;;;;;3058:18;3050:27;;;;;;3087:12;3108:42;3087:64;;3184:9;3195:17;3216:3;:8;;3233:7;3216:29;;;;;:::i;:::-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3183:62;;;;3275:4;3255:5;:17;3261:10;3255:17;;;;;;;;;;;;;;;;:24;;;;;;;;;;;;;;;;;;3297:4;3289:37;;;;;;;;;;;;:::i;:::-;;;;;;;;;3383:4;3370:3;3362:20;;;:25;;;;:::i;:::-;3336:10;:15;3347:3;3336:15;;;;;;;;;;;;;;;:25;;:51;;;;3413:3;3402:16;;;;;;;;;;;;3043:383;;;3002:424::o;4750:433::-;4814:5;:17;4820:10;4814:17;;;;;;;;;;;;;;;;;;;;;;;;;4813:18;4805:27;;;;;;4842:11;4862:42;4842:63;;4938:9;4949:17;4970:3;:8;;4987:7;4970:29;;;;;:::i;:::-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;4937:62;;;;5029:4;5009:5;:17;5015:10;5009:17;;;;;;;;;;;;;;;;:24;;;;;;;;;;;;;;;;;;5051:4;5043:37;;;;;;;;;;;;:::i;:::-;;;;;;;;;5137:4;5124:3;5116:20;;;:25;;;;:::i;:::-;5090:10;:15;5101:3;5090:15;;;;;;;;;;;;;;;:25;;:51;;;;5167:3;5156:16;;;;;;;;;;;;4795:388;;;4750:433::o;5627:435::-;5693:5;:17;5699:10;5693:17;;;;;;;;;;;;;;;;;;;;;;;;;5692:18;5684:27;;;;;;5721:11;5741:42;5721:63;;5817:9;5828:17;5849:3;:8;;5866:7;5849:29;;;;;:::i;:::-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;5816:62;;;;5908:4;5888:5;:17;5894:10;5888:17;;;;;;;;;;;;;;;;:24;;;;;;;;;;;;;;;;;;5930:4;5922:37;;;;;;;;;;;;:::i;:::-;;;;;;;;;6016:4;6003:3;5995:20;;;:25;;;;:::i;:::-;5969:10;:15;5980:3;5969:15;;;;;;;;;;;;;;;:25;;:51;;;;6046:3;6035:16;;;;;;;;;;;;5674:388;;;5627:435::o;314:48::-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:::i;:::-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:::i;:::-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:::o;4312:432::-;4375:5;:17;4381:10;4375:17;;;;;;;;;;;;;;;;;;;;;;;;;4374:18;4366:27;;;;;;4403:11;4423:42;4403:63;;4499:9;4510:17;4531:3;:8;;4548:7;4531:29;;;;;:::i;:::-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;4498:62;;;;4590:4;4570:5;:17;4576:10;4570:17;;;;;;;;;;;;;;;;:24;;;;;;;;;;;;;;;;;;4612:4;4604:37;;;;;;;;;;;;:::i;:::-;;;;;;;;;4698:4;4685:3;4677:20;;;:25;;;;:::i;:::-;4651:10;:15;4662:3;4651:15;;;;;;;;;;;;;;;:25;;:51;;;;4728:3;4717:16;;;;;;;;;;;;4356:388;;;4312:432::o;1887:232::-;1935:10;1947:18;1967:14;1998:18;2018:10;:16;2029:4;2018:16;;;;;;;;;;;;;;;1998:36;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:::i;:::-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:::i;:::-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2044:19;2064:1;:6;;;2044:26;;2088:1;:4;;;2093:1;:6;;;2100:1;:11;;;2080:32;;;;;;;;1887:232;;;;;:::o;6510:433::-;6574:5;:17;6580:10;6574:17;;;;;;;;;;;;;;;;;;;;;;;;;6573:18;6565:27;;;;;;6602:11;6622:42;6602:63;;6698:9;6709:17;6730:3;:8;;6747:7;6730:29;;;;;:::i;:::-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;6697:62;;;;6789:4;6769:5;:17;6775:10;6769:17;;;;;;;;;;;;;;;;:24;;;;;;;;;;;;;;;;;;6811:4;6803:37;;;;;;;;;;;;:::i;:::-;;;;;;;;;6897:4;6884:3;6876:20;;;:25;;;;:::i;:::-;6850:10;:15;6861:3;6850:15;;;;;;;;;;;;;;;:25;;:51;;;;6927:3;6916:16;;;;;;;;;;;;6555:388;;;6510:433::o;639:38::-;;;;;;;;;;;;;;;;;;;;;;:::o;3871:435::-;3937:5;:17;3943:10;3937:17;;;;;;;;;;;;;;;;;;;;;;;;;3936:18;3928:27;;;;;;3965:11;3985:42;3965:63;;4061:9;4072:17;4093:3;:8;;4110:7;4093:29;;;;;:::i;:::-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;4060:62;;;;4152:4;4132:5;:17;4138:10;4132:17;;;;;;;;;;;;;;;;:24;;;;;;;;;;;;;;;;;;4174:4;4166:37;;;;;;;;;;;;:::i;:::-;;;;;;;;;4260:4;4247:3;4239:20;;;:25;;;;:::i;:::-;4213:10;:15;4224:3;4213:15;;;;;;;;;;;;;;;:25;;:51;;;;4290:3;4279:16;;;;;;;;;;;;3918:388;;;3871:435::o;6067:434::-;6132:5;:17;6138:10;6132:17;;;;;;;;;;;;;;;;;;;;;;;;;6131:18;6123:27;;;;;;6160:11;6180:42;6160:63;;6256:9;6267:17;6288:3;:8;;6305:7;6288:29;;;;;:::i;:::-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;6255:62;;;;6347:4;6327:5;:17;6333:10;6327:17;;;;;;;;;;;;;;;;:24;;;;;;;;;;;;;;;;;;6369:4;6361:37;;;;;;;;;;;;:::i;:::-;;;;;;;;;6424:3;6413:16;;;;;;;;;;;;6486:4;6473:3;6465:20;;;:25;;;;:::i;:::-;6439:10;:15;6450:3;6439:15;;;;;;;;;;;;;;;:25;;:51;;;;6113:388;;;6067:434::o;682:26::-;;;;:::o;2571:426::-;2629:5;:17;2635:10;2629:17;;;;;;;;;;;;;;;;;;;;;;;;;2628:18;2620:27;;;;;;2657:13;2679:42;2657:65;;2755:9;2766:17;2787:3;:8;;2804:7;2787:29;;;;;:::i;:::-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2754:62;;;;2846:4;2826:5;:17;2832:10;2826:17;;;;;;;;;;;;;;;;:24;;;;;;;;;;;;;;;;;;2868:4;2860:37;;;;;;;;;;;;:::i;:::-;;;;;;;;;2954:4;2941:3;2933:20;;;:25;;;;:::i;:::-;2907:10;:15;2918:3;2907:15;;;;;;;;;;;;;;;:25;;:51;;;;2984:3;2973:16;;;;;;;;;;;;2613:384;;;2571:426::o;3431:435::-;3496:5;:17;3502:10;3496:17;;;;;;;;;;;;;;;;;;;;;;;;;3495:18;3487:27;;;;;;3524:12;3545:42;3524:64;;3621:9;3632:17;3653:3;:8;;3670:7;3653:29;;;;;:::i;:::-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3620:62;;;;3712:4;3692:5;:17;3698:10;3692:17;;;;;;;;;;;;;;;;:24;;;;;;;;;;;;;;;;;;3734:4;3726:37;;;;;;;;;;;;:::i;:::-;;;;;;;;;3820:4;3807:3;3799:20;;;:25;;;;:::i;:::-;3773:10;:15;3784:3;3773:15;;;;;;;;;;;;;;;:25;;:51;;;;3850:3;3839:16;;;;;;;;;;;;3477:389;;;3431:435::o;2130:431::-;2193:5;:17;2199:10;2193:17;;;;;;;;;;;;;;;;;;;;;;;;;2192:18;2184:27;;;;;;2221:12;2243:42;2221:65;;2319:9;2330:17;2351:3;:8;;2368:7;2351:29;;;;;:::i;:::-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2318:62;;;;2410:4;2390:5;:17;2396:10;2390:17;;;;;;;;;;;;;;;;:24;;;;;;;;;;;;;;;;;;2432:4;2424:37;;;;;;;;;;;;:::i;:::-;;;;;;;;;2518:4;2505:3;2497:20;;;:25;;;;:::i;:::-;2471:10;:15;2482:3;2471:15;;;;;;;;;;;;;;;:25;;:51;;;;2548:3;2537:16;;;;;;;;;;;;2171:390;;;2130:431::o;88:117:1:-;197:1;194;187:12;334:126;371:7;411:42;404:5;400:54;389:65;;334:126;;;:::o;466:96::-;503:7;532:24;550:5;532:24;:::i;:::-;521:35;;466:96;;;:::o;568:122::-;641:24;659:5;641:24;:::i;:::-;634:5;631:35;621:63;;680:1;677;670:12;621:63;568:122;:::o;696:139::-;742:5;780:6;767:20;758:29;;796:33;823:5;796:33;:::i;:::-;696:139;;;;:::o;841:329::-;900:6;949:2;937:9;928:7;924:23;920:32;917:119;;;955:79;;:::i;:::-;917:119;1075:1;1100:53;1145:7;1136:6;1125:9;1121:22;1100:53;:::i;:::-;1090:63;;1046:117;841:329;;;;:::o;1176:118::-;1263:24;1281:5;1263:24;:::i;:::-;1258:3;1251:37;1176:118;;:::o;1300:99::-;1352:6;1386:5;1380:12;1370:22;;1300:99;;;:::o;1405:169::-;1489:11;1523:6;1518:3;1511:19;1563:4;1558:3;1554:14;1539:29;;1405:169;;;;:::o;1580:307::-;1648:1;1658:113;1672:6;1669:1;1666:13;1658:113;;;1757:1;1752:3;1748:11;1742:18;1738:1;1733:3;1729:11;1722:39;1694:2;1691:1;1687:10;1682:15;;1658:113;;;1789:6;1786:1;1783:13;1780:101;;;1869:1;1860:6;1855:3;1851:16;1844:27;1780:101;1629:258;1580:307;;;:::o;1893:102::-;1934:6;1985:2;1981:7;1976:2;1969:5;1965:14;1961:28;1951:38;;1893:102;;;:::o;2001:364::-;2089:3;2117:39;2150:5;2117:39;:::i;:::-;2172:71;2236:6;2231:3;2172:71;:::i;:::-;2165:78;;2252:52;2297:6;2292:3;2285:4;2278:5;2274:16;2252:52;:::i;:::-;2329:29;2351:6;2329:29;:::i;:::-;2324:3;2320:39;2313:46;;2093:272;2001:364;;;;:::o;2371:77::-;2408:7;2437:5;2426:16;;2371:77;;;:::o;2454:118::-;2541:24;2559:5;2541:24;:::i;:::-;2536:3;2529:37;2454:118;;:::o;2578:533::-;2747:4;2785:2;2774:9;2770:18;2762:26;;2798:71;2866:1;2855:9;2851:17;2842:6;2798:71;:::i;:::-;2916:9;2910:4;2906:20;2901:2;2890:9;2886:18;2879:48;2944:78;3017:4;3008:6;2944:78;:::i;:::-;2936:86;;3032:72;3100:2;3089:9;3085:18;3076:6;3032:72;:::i;:::-;2578:533;;;;;;:::o;3117:90::-;3151:7;3194:5;3187:13;3180:21;3169:32;;3117:90;;;:::o;3213:109::-;3294:21;3309:5;3294:21;:::i;:::-;3289:3;3282:34;3213:109;;:::o;3328:210::-;3415:4;3453:2;3442:9;3438:18;3430:26;;3466:65;3528:1;3517:9;3513:17;3504:6;3466:65;:::i;:::-;3328:210;;;;:::o;3544:222::-;3637:4;3675:2;3664:9;3660:18;3652:26;;3688:71;3756:1;3745:9;3741:17;3732:6;3688:71;:::i;:::-;3544:222;;;;:::o;3772:147::-;3873:11;3910:3;3895:18;;3772:147;;;;:::o;3925:114::-;;:::o;4045:398::-;4204:3;4225:83;4306:1;4301:3;4225:83;:::i;:::-;4218:90;;4317:93;4406:3;4317:93;:::i;:::-;4435:1;4430:3;4426:11;4419:18;;4045:398;;;:::o;4449:379::-;4633:3;4655:147;4798:3;4655:147;:::i;:::-;4648:154;;4819:3;4812:10;;4449:379;;;:::o;4834:170::-;4974:22;4970:1;4962:6;4958:14;4951:46;4834:170;:::o;5010:366::-;5152:3;5173:67;5237:2;5232:3;5173:67;:::i;:::-;5166:74;;5249:93;5338:3;5249:93;:::i;:::-;5367:2;5362:3;5358:12;5351:19;;5010:366;;;:::o;5382:419::-;5548:4;5586:2;5575:9;5571:18;5563:26;;5635:9;5629:4;5625:20;5621:1;5610:9;5606:17;5599:47;5663:131;5789:4;5663:131;:::i;:::-;5655:139;;5382:419;;;:::o;5807:180::-;5855:77;5852:1;5845:88;5952:4;5949:1;5942:15;5976:4;5973:1;5966:15;6179:185;6219:1;6236:20;6254:1;6236:20;:::i;:::-;6231:25;;6270:20;6288:1;6270:20;:::i;:::-;6265:25;;6309:1;6299:35;;6314:18;;:::i;:::-;6299:35;6356:1;6353;6349:9;6344:14;;6179:185;;;;:::o;6370:180::-;6418:77;6415:1;6408:88;6515:4;6512:1;6505:15;6539:4;6536:1;6529:15;6556:320;6600:6;6637:1;6631:4;6627:12;6617:22;;6684:1;6678:4;6674:12;6705:18;6695:81;;6761:4;6753:6;6749:17;6739:27;;6695:81;6823:2;6815:6;6812:14;6792:18;6789:38;6786:84;;6842:18;;:::i;:::-;6786:84;6607:269;6556:320;;;:::o",
-  "source": "pragma solidity >=0.4.22 <0.9.0;\ncontract votev {\n\tstruct Candidate{\n        //id of candidate\n        address id;\n        //name of candidate\n        string name;\n        //votecount of candidate\n        uint voteCount;\n    }\n    \n    event eventVote(\n        address indexed _candidateid\n        );\n    \n        mapping (address => Candidate) public candidates;\n        /*address[] public candidates =  [0x690854ccAae9A9B581B12a40A035b7B5e4788ABe, \n                                        0x690854ccAae9A9B581B12a40A035b7B5e4788ABe,\n                                        0xb40E9B0198eb166D8FAbCD03F94322C9427b702F];\n\n          */\n\t    mapping (address => bool) public voter;\n\t\n\tuint public candidatecount;\n        \n    constructor() payable public{\n        addCandidate(\"Modi(BJP)\" ,0x690854ccAae9A9B581B12a40A035b7B5e4788ABe);\n        addCandidate(\"Rahul(Congress)\",0x12cF65d7A64794D157b70B8B7703fDC518c24a30);\n        addCandidate(\"Mamta(TMC)\",0xb40E9B0198eb166D8FAbCD03F94322C9427b702F);\n        addCandidate(\"Yogi(BJP-UP)\" ,0xE34D94104898E557bCF5F58C25dE55b496E56e53);\n        addCandidate(\"Priyanka(Congress-UP)\",0x2e67AD69e424E6de33d0cE6f5F09E156cB7a79D4);\n        addCandidate(\"Akhilesh(SP-UP)\",0x35C90Aa7D0B617Aa5719B78A70Df0048720Cdbdb);\n        addCandidate(\"Mayawati(BSP-UP)\",0xF8F8EEa7e771Aa3EFD20D4db6F2764546B108DEa);\n        addCandidate(\"Om Birla(BJP-Raj)\" ,0x12cF65d7A64794D157b70B8B7703fDC518c24a30);\n        addCandidate(\"Sachin(Congress-Raj)\",0x12cF65d7A64794D157b70B8B7703fDC518c24a30);\n        addCandidate(\"Manjeet(AAP-Raj)\",0xb40E9B0198eb166D8FAbCD03F94322C9427b702F);\n        addCandidate(\"Deve Gowda(JD-Raj)\",0xa54ec29fC6bB89b413A3d04dF16C03D25fb05F3A);\n    }\n    \n    function addCandidate(string memory _name,address  _add  ) private\n    {candidatecount++;\n        \n        candidates[_add] = Candidate(_add, _name, address(_add).balance/1e18);\n    }\n    function getcandi(address _add) public returns (address id ,string memory name ,uint voteCount )\n    {\n        Candidate memory p= candidates[_add];\n        string memory name1=p.name;\n        return (p.id,p.name,p.voteCount);\n    }\n    \n    \tfunction sendBJP () public payable \n    \t{\n    \t\n    \trequire(!voter[msg.sender]);\n        address  ada= address(0x12cF65d7A64794D157b70B8B7703fDC518c24a30);\n        payable(ada);\n        (bool sent, bytes memory data) = ada.call{value : 1 ether}(\"\");\n        voter[msg.sender] = true;\n        require(sent, \"Failed to send Ether\");\n        candidates[ada].voteCount=address(ada).balance/1e18;\n        emit eventVote( ada );\n    \t}\n    \n    function sendCONG () public payable \n    \t{\n    \trequire(!voter[msg.sender]);\n        address   adq=address(0x12cF65d7A64794D157b70B8B7703fDC518c24a30);\n        payable(adq);\n        (bool sent, bytes memory data) = adq.call{value : 1 ether}(\"\");\n        voter[msg.sender] = true;\n        require(sent, \"Failed to send Ether\");\n        candidates[adq].voteCount=address(adq).balance/1e18;\n        emit eventVote( adq );\n    \t}\n    function sendMAM () public payable \n    \t{\n    \trequire(!voter[msg.sender]);\n        address  adq=address(0xb40E9B0198eb166D8FAbCD03F94322C9427b702F);\n        payable(adq);\n        (bool sent, bytes memory data) = adq.call{value : 1 ether}(\"\");\n        voter[msg.sender] = true;\n        require(sent, \"Failed to send Ether\");\n        candidates[adq].voteCount=address(adq).balance/1e18;\n        emit eventVote( adq );\n    \t}\n    function sendUPBJP () public payable \n        {\n        require(!voter[msg.sender]);\n        address  adq=address(0xE34D94104898E557bCF5F58C25dE55b496E56e53);\n        payable(adq);\n        (bool sent, bytes memory data) = adq.call{value : 1 ether}(\"\");\n        voter[msg.sender] = true;\n        require(sent, \"Failed to send Ether\");\n        candidates[adq].voteCount=address(adq).balance/1e18;\n        emit eventVote( adq );\n        }\n    function sendUPCONG () public payable \n        {\n        require(!voter[msg.sender]);\n        address adq=address(0x2e67AD69e424E6de33d0cE6f5F09E156cB7a79D4);\n        payable(adq);\n        (bool sent, bytes memory data) = adq.call{value : 1 ether}(\"\");\n        voter[msg.sender] = true;\n        require(sent, \"Failed to send Ether\");\n        candidates[adq].voteCount=address(adq).balance/1e18;\n        emit eventVote( adq );\n        }\n     function sendUPSP() public payable \n        {\n        require(!voter[msg.sender]);\n        address adq=address(0x35C90Aa7D0B617Aa5719B78A70Df0048720Cdbdb);\n        payable(adq);\n        (bool sent, bytes memory data) = adq.call{value : 1 ether}(\"\");\n        voter[msg.sender] = true;\n        require(sent, \"Failed to send Ether\");\n        candidates[adq].voteCount=address(adq).balance/1e18;\n        emit eventVote( adq );\n        }\n     function sendUPBSP() public payable \n        {\n        require(!voter[msg.sender]);\n        address adq=address(0xF8F8EEa7e771Aa3EFD20D4db6F2764546B108DEa);\n        payable(adq);\n        (bool sent, bytes memory data) = adq.call{value : 1 ether}(\"\");\n        voter[msg.sender] = true;\n        require(sent, \"Failed to send Ether\");\n        candidates[adq].voteCount=address(adq).balance/1e18;\n        emit eventVote( adq );\n        }\n    function sendRAJBJP() public payable \n        {\n        require(!voter[msg.sender]);\n        address adq=address(0x690854ccAae9A9B581B12a40A035b7B5e4788ABe);\n        payable(adq);\n        (bool sent, bytes memory data) = adq.call{value : 1 ether}(\"\");\n        voter[msg.sender] = true;\n        require(sent, \"Failed to send Ether\");\n        candidates[adq].voteCount=address(adq).balance/1e18;\n        emit eventVote( adq );\n        }\n    function sendRAJCong() public payable \n        {\n        require(!voter[msg.sender]);\n        address adq=address(0x12cF65d7A64794D157b70B8B7703fDC518c24a30);\n        payable(adq);\n        (bool sent, bytes memory data) = adq.call{value : 1 ether}(\"\");\n        voter[msg.sender] = true;\n        require(sent, \"Failed to send Ether\");\n        candidates[adq].voteCount=address(adq).balance/1e18;\n        emit eventVote( adq );\n        }\n    function sendRAJAap() public payable \n        {\n        require(!voter[msg.sender]);\n        address adq=address(0x6c158dD091c0D1f37aaFA648Dd0C5e1d432a28e2);\n        payable(adq);\n        (bool sent, bytes memory data) = adq.call{value : 1 ether}(\"\");\n        voter[msg.sender] = true;\n        require(sent, \"Failed to send Ether\");\n        emit eventVote( adq );\n        candidates[adq].voteCount=address(adq).balance/1e18;\n        }    \n    function sendRAJJD() public payable \n        {\n        require(!voter[msg.sender]);\n        address adq=address(0x9b93eE2E1A5c68091497907BEa46bEdAe9702184);\n        payable(adq);\n        (bool sent, bytes memory data) = adq.call{value : 1 ether}(\"\");\n        voter[msg.sender] = true;\n        require(sent, \"Failed to send Ether\");\n        candidates[adq].voteCount=address(adq).balance/1e18;\n        emit eventVote( adq );\n        }\n    \n}\n\n",
+  "source": "pragma solidity >=0.4.22 <0.9.0;\ncontract votev {\n\tstruct Candidate{\n        //id of candidate\n        address id;\n        //name of candidate\n        string name;\n        //votecount of candidate\n        uint voteCount;\n    }\n    \n    event eventVote(\n        address indexed _candidateid\n        );\n    \n        mapping (address => Candidate) public candidates;\n        /*address[] public candidates =  [0x8f017e97A4604f26196ae2490A1f1bA1eC9B32fA, \n                                        0x8f017e97A4604f26196ae2490A1f1bA1eC9B32fA,\n                                        0x78fC839Be6d5Fb855C31291b3c0af51AC5e9157c];\n\n          */\n\t    mapping (address => bool) public voter;\n\t\n\tuint public candidatecount;\n        \n    constructor() payable public{\n        addCandidate(\"Modi(BJP)\" ,0x8f017e97A4604f26196ae2490A1f1bA1eC9B32fA);\n        addCandidate(\"Rahul(Congress)\",0x1De6bf243474474B470F52Bf77352A6D319CCC3c);\n        addCandidate(\"Mamta(TMC)\",0x78fC839Be6d5Fb855C31291b3c0af51AC5e9157c);\n        addCandidate(\"Yogi(BJP-UP)\" ,0xE34D94104898E557bCF5F58C25dE55b496E56e53);\n        addCandidate(\"Priyanka(Congress-UP)\",0x2e67AD69e424E6de33d0cE6f5F09E156cB7a79D4);\n        addCandidate(\"Akhilesh(SP-UP)\",0x35C90Aa7D0B617Aa5719B78A70Df0048720Cdbdb);\n        addCandidate(\"Mayawati(BSP-UP)\",0xF8F8EEa7e771Aa3EFD20D4db6F2764546B108DEa);\n        addCandidate(\"Om Birla(BJP-Raj)\" ,0x1De6bf243474474B470F52Bf77352A6D319CCC3c);\n        addCandidate(\"Sachin(Congress-Raj)\",0x1De6bf243474474B470F52Bf77352A6D319CCC3c);\n        addCandidate(\"Manjeet(AAP-Raj)\",0x78fC839Be6d5Fb855C31291b3c0af51AC5e9157c);\n        addCandidate(\"Deve Gowda(JD-Raj)\",0x0dbA2fbC717DEb4dD31E118A8D853C36e5E0Ea37);\n    }\n    \n    function addCandidate(string memory _name,address  _add  ) private\n    {candidatecount++;\n        \n        candidates[_add] = Candidate(_add, _name, address(_add).balance/1e18);\n    }\n    function getcandi(address _add) public returns (address id ,string memory name ,uint voteCount )\n    {\n        Candidate memory p= candidates[_add];\n        string memory name1=p.name;\n        return (p.id,p.name,p.voteCount);\n    }\n    \n    \tfunction sendBJP () public payable \n    \t{\n    \t\n    \trequire(!voter[msg.sender]);\n        address  ada= address(0x1De6bf243474474B470F52Bf77352A6D319CCC3c);\n        payable(ada);\n        (bool sent, bytes memory data) = ada.call{value : 1 ether}(\"\");\n        voter[msg.sender] = true;\n        require(sent, \"Failed to send Ether\");\n        candidates[ada].voteCount=address(ada).balance/1e18;\n        emit eventVote( ada );\n    \t}\n    \n    function sendCONG () public payable \n    \t{\n    \trequire(!voter[msg.sender]);\n        address   adq=address(0x1De6bf243474474B470F52Bf77352A6D319CCC3c);\n        payable(adq);\n        (bool sent, bytes memory data) = adq.call{value : 1 ether}(\"\");\n        voter[msg.sender] = true;\n        require(sent, \"Failed to send Ether\");\n        candidates[adq].voteCount=address(adq).balance/1e18;\n        emit eventVote( adq );\n    \t}\n    function sendMAM () public payable \n    \t{\n    \trequire(!voter[msg.sender]);\n        address  adq=address(0x78fC839Be6d5Fb855C31291b3c0af51AC5e9157c);\n        payable(adq);\n        (bool sent, bytes memory data) = adq.call{value : 1 ether}(\"\");\n        voter[msg.sender] = true;\n        require(sent, \"Failed to send Ether\");\n        candidates[adq].voteCount=address(adq).balance/1e18;\n        emit eventVote( adq );\n    \t}\n    function sendUPBJP () public payable \n        {\n        require(!voter[msg.sender]);\n        address  adq=address(0xE34D94104898E557bCF5F58C25dE55b496E56e53);\n        payable(adq);\n        (bool sent, bytes memory data) = adq.call{value : 1 ether}(\"\");\n        voter[msg.sender] = true;\n        require(sent, \"Failed to send Ether\");\n        candidates[adq].voteCount=address(adq).balance/1e18;\n        emit eventVote( adq );\n        }\n    function sendUPCONG () public payable \n        {\n        require(!voter[msg.sender]);\n        address adq=address(0x2e67AD69e424E6de33d0cE6f5F09E156cB7a79D4);\n        payable(adq);\n        (bool sent, bytes memory data) = adq.call{value : 1 ether}(\"\");\n        voter[msg.sender] = true;\n        require(sent, \"Failed to send Ether\");\n        candidates[adq].voteCount=address(adq).balance/1e18;\n        emit eventVote( adq );\n        }\n     function sendUPSP() public payable \n        {\n        require(!voter[msg.sender]);\n        address adq=address(0x35C90Aa7D0B617Aa5719B78A70Df0048720Cdbdb);\n        payable(adq);\n        (bool sent, bytes memory data) = adq.call{value : 1 ether}(\"\");\n        voter[msg.sender] = true;\n        require(sent, \"Failed to send Ether\");\n        candidates[adq].voteCount=address(adq).balance/1e18;\n        emit eventVote( adq );\n        }\n     function sendUPBSP() public payable \n        {\n        require(!voter[msg.sender]);\n        address adq=address(0xF8F8EEa7e771Aa3EFD20D4db6F2764546B108DEa);\n        payable(adq);\n        (bool sent, bytes memory data) = adq.call{value : 1 ether}(\"\");\n        voter[msg.sender] = true;\n        require(sent, \"Failed to send Ether\");\n        candidates[adq].voteCount=address(adq).balance/1e18;\n        emit eventVote( adq );\n        }\n    function sendRAJBJP() public payable \n        {\n        require(!voter[msg.sender]);\n        address adq=address(0x8f017e97A4604f26196ae2490A1f1bA1eC9B32fA);\n        payable(adq);\n        (bool sent, bytes memory data) = adq.call{value : 1 ether}(\"\");\n        voter[msg.sender] = true;\n        require(sent, \"Failed to send Ether\");\n        candidates[adq].voteCount=address(adq).balance/1e18;\n        emit eventVote( adq );\n        }\n    function sendRAJCong() public payable \n        {\n        require(!voter[msg.sender]);\n        address adq=address(0x1De6bf243474474B470F52Bf77352A6D319CCC3c);\n        payable(adq);\n        (bool sent, bytes memory data) = adq.call{value : 1 ether}(\"\");\n        voter[msg.sender] = true;\n        require(sent, \"Failed to send Ether\");\n        candidates[adq].voteCount=address(adq).balance/1e18;\n        emit eventVote( adq );\n        }\n    function sendRAJAap() public payable \n        {\n        require(!voter[msg.sender]);\n        address adq=address(0x6c158dD091c0D1f37aaFA648Dd0C5e1d432a28e2);\n        payable(adq);\n        (bool sent, bytes memory data) = adq.call{value : 1 ether}(\"\");\n        voter[msg.sender] = true;\n        require(sent, \"Failed to send Ether\");\n        emit eventVote( adq );\n        candidates[adq].voteCount=address(adq).balance/1e18;\n        }    \n    function sendRAJJD() public payable \n        {\n        require(!voter[msg.sender]);\n        address adq=address(0x9b93eE2E1A5c68091497907BEa46bEdAe9702184);\n        payable(adq);\n        (bool sent, bytes memory data) = adq.call{value : 1 ether}(\"\");\n        voter[msg.sender] = true;\n        require(sent, \"Failed to send Ether\");\n        candidates[adq].voteCount=address(adq).balance/1e18;\n        emit eventVote( adq );\n        }\n    \n}\n\n",
   "sourcePath": "/home/creator7/Documents/UPRajNatonalElection/contracts/vote.sol",
   "ast": {
     "absolutePath": "project:/contracts/vote.sol",
@@ -4718,7 +4718,7 @@
                           "typeIdentifier": "t_address",
                           "typeString": "address"
                         },
-                        "value": "0x690854ccAae9A9B581B12a40A035b7B5e4788ABe"
+                        "value": "0x8f017e97A4604f26196ae2490A1f1bA1eC9B32fA"
                       }
                     ],
                     "expression": {
@@ -4795,7 +4795,7 @@
                           "typeIdentifier": "t_address",
                           "typeString": "address"
                         },
-                        "value": "0x12cF65d7A64794D157b70B8B7703fDC518c24a30"
+                        "value": "0x1De6bf243474474B470F52Bf77352A6D319CCC3c"
                       }
                     ],
                     "expression": {
@@ -4872,7 +4872,7 @@
                           "typeIdentifier": "t_address",
                           "typeString": "address"
                         },
-                        "value": "0xb40E9B0198eb166D8FAbCD03F94322C9427b702F"
+                        "value": "0x78fC839Be6d5Fb855C31291b3c0af51AC5e9157c"
                       }
                     ],
                     "expression": {
@@ -5257,7 +5257,7 @@
                           "typeIdentifier": "t_address",
                           "typeString": "address"
                         },
-                        "value": "0x12cF65d7A64794D157b70B8B7703fDC518c24a30"
+                        "value": "0x1De6bf243474474B470F52Bf77352A6D319CCC3c"
                       }
                     ],
                     "expression": {
@@ -5334,7 +5334,7 @@
                           "typeIdentifier": "t_address",
                           "typeString": "address"
                         },
-                        "value": "0x12cF65d7A64794D157b70B8B7703fDC518c24a30"
+                        "value": "0x1De6bf243474474B470F52Bf77352A6D319CCC3c"
                       }
                     ],
                     "expression": {
@@ -5411,7 +5411,7 @@
                           "typeIdentifier": "t_address",
                           "typeString": "address"
                         },
-                        "value": "0xb40E9B0198eb166D8FAbCD03F94322C9427b702F"
+                        "value": "0x78fC839Be6d5Fb855C31291b3c0af51AC5e9157c"
                       }
                     ],
                     "expression": {
@@ -5488,7 +5488,7 @@
                           "typeIdentifier": "t_address",
                           "typeString": "address"
                         },
-                        "value": "0xa54ec29fC6bB89b413A3d04dF16C03D25fb05F3A"
+                        "value": "0x0dbA2fbC717DEb4dD31E118A8D853C36e5E0Ea37"
                       }
                     ],
                     "expression": {
@@ -6469,7 +6469,7 @@
                           "typeIdentifier": "t_address",
                           "typeString": "address"
                         },
-                        "value": "0x12cF65d7A64794D157b70B8B7703fDC518c24a30"
+                        "value": "0x1De6bf243474474B470F52Bf77352A6D319CCC3c"
                       }
                     ],
                     "expression": {
@@ -7335,7 +7335,7 @@
                           "typeIdentifier": "t_address",
                           "typeString": "address"
                         },
-                        "value": "0x12cF65d7A64794D157b70B8B7703fDC518c24a30"
+                        "value": "0x1De6bf243474474B470F52Bf77352A6D319CCC3c"
                       }
                     ],
                     "expression": {
@@ -8201,7 +8201,7 @@
                           "typeIdentifier": "t_address",
                           "typeString": "address"
                         },
-                        "value": "0xb40E9B0198eb166D8FAbCD03F94322C9427b702F"
+                        "value": "0x78fC839Be6d5Fb855C31291b3c0af51AC5e9157c"
                       }
                     ],
                     "expression": {
@@ -12531,7 +12531,7 @@
                           "typeIdentifier": "t_address",
                           "typeString": "address"
                         },
-                        "value": "0x690854ccAae9A9B581B12a40A035b7B5e4788ABe"
+                        "value": "0x8f017e97A4604f26196ae2490A1f1bA1eC9B32fA"
                       }
                     ],
                     "expression": {
@@ -13397,7 +13397,7 @@
                           "typeIdentifier": "t_address",
                           "typeString": "address"
                         },
-                        "value": "0x12cF65d7A64794D157b70B8B7703fDC518c24a30"
+                        "value": "0x1De6bf243474474B470F52Bf77352A6D319CCC3c"
                       }
                     ],
                     "expression": {
@@ -16182,7 +16182,7 @@
                           "typeIdentifier": "t_address",
                           "typeString": "address"
                         },
-                        "value": "0x690854ccAae9A9B581B12a40A035b7B5e4788ABe"
+                        "value": "0x8f017e97A4604f26196ae2490A1f1bA1eC9B32fA"
                       }
                     ],
                     "expression": {
@@ -16259,7 +16259,7 @@
                           "typeIdentifier": "t_address",
                           "typeString": "address"
                         },
-                        "value": "0x12cF65d7A64794D157b70B8B7703fDC518c24a30"
+                        "value": "0x1De6bf243474474B470F52Bf77352A6D319CCC3c"
                       }
                     ],
                     "expression": {
@@ -16336,7 +16336,7 @@
                           "typeIdentifier": "t_address",
                           "typeString": "address"
                         },
-                        "value": "0xb40E9B0198eb166D8FAbCD03F94322C9427b702F"
+                        "value": "0x78fC839Be6d5Fb855C31291b3c0af51AC5e9157c"
                       }
                     ],
                     "expression": {
@@ -16721,7 +16721,7 @@
                           "typeIdentifier": "t_address",
                           "typeString": "address"
                         },
-                        "value": "0x12cF65d7A64794D157b70B8B7703fDC518c24a30"
+                        "value": "0x1De6bf243474474B470F52Bf77352A6D319CCC3c"
                       }
                     ],
                     "expression": {
@@ -16798,7 +16798,7 @@
                           "typeIdentifier": "t_address",
                           "typeString": "address"
                         },
-                        "value": "0x12cF65d7A64794D157b70B8B7703fDC518c24a30"
+                        "value": "0x1De6bf243474474B470F52Bf77352A6D319CCC3c"
                       }
                     ],
                     "expression": {
@@ -16875,7 +16875,7 @@
                           "typeIdentifier": "t_address",
                           "typeString": "address"
                         },
-                        "value": "0xb40E9B0198eb166D8FAbCD03F94322C9427b702F"
+                        "value": "0x78fC839Be6d5Fb855C31291b3c0af51AC5e9157c"
                       }
                     ],
                     "expression": {
@@ -16952,7 +16952,7 @@
                           "typeIdentifier": "t_address",
                           "typeString": "address"
                         },
-                        "value": "0xa54ec29fC6bB89b413A3d04dF16C03D25fb05F3A"
+                        "value": "0x0dbA2fbC717DEb4dD31E118A8D853C36e5E0Ea37"
                       }
                     ],
                     "expression": {
@@ -17933,7 +17933,7 @@
                           "typeIdentifier": "t_address",
                           "typeString": "address"
                         },
-                        "value": "0x12cF65d7A64794D157b70B8B7703fDC518c24a30"
+                        "value": "0x1De6bf243474474B470F52Bf77352A6D319CCC3c"
                       }
                     ],
                     "expression": {
@@ -18799,7 +18799,7 @@
                           "typeIdentifier": "t_address",
                           "typeString": "address"
                         },
-                        "value": "0x12cF65d7A64794D157b70B8B7703fDC518c24a30"
+                        "value": "0x1De6bf243474474B470F52Bf77352A6D319CCC3c"
                       }
                     ],
                     "expression": {
@@ -19665,7 +19665,7 @@
                           "typeIdentifier": "t_address",
                           "typeString": "address"
                         },
-                        "value": "0xb40E9B0198eb166D8FAbCD03F94322C9427b702F"
+                        "value": "0x78fC839Be6d5Fb855C31291b3c0af51AC5e9157c"
                       }
                     ],
                     "expression": {
@@ -23995,7 +23995,7 @@
                           "typeIdentifier": "t_address",
                           "typeString": "address"
                         },
-                        "value": "0x690854ccAae9A9B581B12a40A035b7B5e4788ABe"
+                        "value": "0x8f017e97A4604f26196ae2490A1f1bA1eC9B32fA"
                       }
                     ],
                     "expression": {
@@ -24861,7 +24861,7 @@
                           "typeIdentifier": "t_address",
                           "typeString": "address"
                         },
-                        "value": "0x12cF65d7A64794D157b70B8B7703fDC518c24a30"
+                        "value": "0x1De6bf243474474B470F52Bf77352A6D319CCC3c"
                       }
                     ],
                     "expression": {
