@@ -1,6 +1,9 @@
-I am currently working on making this project live.
-When it will be live i will upload the link here.
-It's gonna take two more days
+I have developed a working version of this project.
+
+after downloading the project
+1. run blockchain on port 8545
+2. compile the  contract and change the address at mqwer.js
+3. and start index.js
 
 For a proper project description read the project report in the folder.
 
