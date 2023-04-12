@@ -14,9 +14,9 @@ contract vote {
         );
     
         mapping (address => Candidate) public candidates;
-        /*address[] public candidates =  [0x690854ccAae9A9B581B12a40A035b7B5e4788ABe, 
-                                        0x690854ccAae9A9B581B12a40A035b7B5e4788ABe,
-                                        0xb40E9B0198eb166D8FAbCD03F94322C9427b702F];
+        /*address[] public candidates =  [0x8f017e97A4604f26196ae2490A1f1bA1eC9B32fA, 
+                                        0x8f017e97A4604f26196ae2490A1f1bA1eC9B32fA,
+                                        0x78fC839Be6d5Fb855C31291b3c0af51AC5e9157c];
 
           */
 	    mapping (address => bool) public voter;
@@ -24,17 +24,17 @@ contract vote {
 	uint public candidatecount;
         
     constructor() payable public{
-        addCandidate("Modi(BJP)" ,0x690854ccAae9A9B581B12a40A035b7B5e4788ABe);
-        addCandidate("Rahul(Congress)",0x12cF65d7A64794D157b70B8B7703fDC518c24a30);
-        addCandidate("Mamta(TMC)",0xb40E9B0198eb166D8FAbCD03F94322C9427b702F);
+        addCandidate("Modi(BJP)" ,0x8f017e97A4604f26196ae2490A1f1bA1eC9B32fA);
+        addCandidate("Rahul(Congress)",0x1De6bf243474474B470F52Bf77352A6D319CCC3c);
+        addCandidate("Mamta(TMC)",0x78fC839Be6d5Fb855C31291b3c0af51AC5e9157c);
         addCandidate("Yogi(BJP-UP)" ,0xE34D94104898E557bCF5F58C25dE55b496E56e53);
         addCandidate("Priyanka(Congress-UP)",0x2e67AD69e424E6de33d0cE6f5F09E156cB7a79D4);
         addCandidate("Akhilesh(SP-UP)",0x35C90Aa7D0B617Aa5719B78A70Df0048720Cdbdb);
         addCandidate("Mayawati(BSP-UP)",0xF8F8EEa7e771Aa3EFD20D4db6F2764546B108DEa);
-        addCandidate("Om Birla(BJP-Raj)" ,0x12cF65d7A64794D157b70B8B7703fDC518c24a30);
-        addCandidate("Sachin(Congress-Raj)",0x12cF65d7A64794D157b70B8B7703fDC518c24a30);
-        addCandidate("Manjeet(AAP-Raj)",0xb40E9B0198eb166D8FAbCD03F94322C9427b702F);
-        addCandidate("Deve Gowda(JD-Raj)",0xa54ec29fC6bB89b413A3d04dF16C03D25fb05F3A);
+        addCandidate("Om Birla(BJP-Raj)" ,0x1De6bf243474474B470F52Bf77352A6D319CCC3c);
+        addCandidate("Sachin(Congress-Raj)",0x1De6bf243474474B470F52Bf77352A6D319CCC3c);
+        addCandidate("Manjeet(AAP-Raj)",0x78fC839Be6d5Fb855C31291b3c0af51AC5e9157c);
+        addCandidate("Deve Gowda(JD-Raj)",0x0dbA2fbC717DEb4dD31E118A8D853C36e5E0Ea37);
     }
     
     function addCandidate(string memory _name,address  _add  ) private
@@ -53,7 +53,7 @@ contract vote {
     	{
     	
     	require(!voter[msg.sender]);
-        address  ada= address(0x12cF65d7A64794D157b70B8B7703fDC518c24a30);
+        address  ada= address(0x1De6bf243474474B470F52Bf77352A6D319CCC3c);
         payable(ada);
         (bool sent, bytes memory data) = ada.call{value : 1 ether}("");
         voter[msg.sender] = true;
@@ -65,7 +65,7 @@ contract vote {
     function sendCONG () public payable 
     	{
     	require(!voter[msg.sender]);
-        address   adq=address(0x12cF65d7A64794D157b70B8B7703fDC518c24a30);
+        address   adq=address(0x1De6bf243474474B470F52Bf77352A6D319CCC3c);
         payable(adq);
         (bool sent, bytes memory data) = adq.call{value : 1 ether}("");
         voter[msg.sender] = true;
@@ -76,7 +76,7 @@ contract vote {
     function sendMAM () public payable 
     	{
     	require(!voter[msg.sender]);
-        address  adq=address(0xb40E9B0198eb166D8FAbCD03F94322C9427b702F);
+        address  adq=address(0x78fC839Be6d5Fb855C31291b3c0af51AC5e9157c);
         payable(adq);
         (bool sent, bytes memory data) = adq.call{value : 1 ether}("");
         voter[msg.sender] = true;
@@ -131,7 +131,7 @@ contract vote {
     function sendRAJBJP() public payable 
         {
         require(!voter[msg.sender]);
-        address adq=address(0x690854ccAae9A9B581B12a40A035b7B5e4788ABe);
+        address adq=address(0x8f017e97A4604f26196ae2490A1f1bA1eC9B32fA);
         payable(adq);
         (bool sent, bytes memory data) = adq.call{value : 1 ether}("");
         voter[msg.sender] = true;
@@ -142,7 +142,7 @@ contract vote {
     function sendRAJCong() public payable 
         {
         require(!voter[msg.sender]);
-        address adq=address(0x12cF65d7A64794D157b70B8B7703fDC518c24a30);
+        address adq=address(0x1De6bf243474474B470F52Bf77352A6D319CCC3c);
         payable(adq);
         (bool sent, bytes memory data) = adq.call{value : 1 ether}("");
         voter[msg.sender] = true;

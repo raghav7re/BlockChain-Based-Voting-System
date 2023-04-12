@@ -2,7 +2,7 @@
             import {Vote} from  './mqwer.js';
             function Voted() {
                 
-                Vote(0x690854ccAae9A9B581B12a40A035b7B5e4788ABe);
+                Vote(0x8f017e97A4604f26196ae2490A1f1bA1eC9B32fA);
             }
             export {Voted};
             /*
@@ -248,12 +248,12 @@
     "stateMutability": "view",
     "type": "function"
 }
-],web3.utils.toChecksumAddress('0xa6E940d07E214Da2b9e6580318383D40F10557AB'));
+],web3.utils.toChecksumAddress('0xABBbe3b9107Ff6ed1252Ce4CA7bF53362Ae23A86'));
 
-            var bjpRaj	="0x690854ccAae9A9B581B12a40A035b7B5e4788ABe";
-            var congRaj ="0x12cF65d7A64794D157b70B8B7703fDC518c24a30";
-            var aapRaj = "0xb40E9B0198eb166D8FAbCD03F94322C9427b702F";
-            var jdRaj	="0xa54ec29fC6bB89b413A3d04dF16C03D25fb05F3A";
+            var bjpRaj	="0x8f017e97A4604f26196ae2490A1f1bA1eC9B32fA";
+            var congRaj ="0x1De6bf243474474B470F52Bf77352A6D319CCC3c";
+            var aapRaj = "0x78fC839Be6d5Fb855C31291b3c0af51AC5e9157c";
+            var jdRaj	="0x0dbA2fbC717DEb4dD31E118A8D853C36e5E0Ea37";
             
             
             getCandidate(bjpRaj);
@@ -262,9 +262,9 @@
             getCandidate(jdRaj);
             Vote();
             var bttn = document.getElementById("ClickMe").innerHTML;
-            //document.getElementById("ClickMe").addEventListener("click", Vote(0x690854ccAae9A9B581B12a40A035b7B5e4788ABe));
+            //document.getElementById("ClickMe").addEventListener("click", Vote(0x8f017e97A4604f26196ae2490A1f1bA1eC9B32fA));
      
-            //ttn.onclick=Vote(0x690854ccAae9A9B581B12a40A035b7B5e4788ABe);
+            //ttn.onclick=Vote(0x8f017e97A4604f26196ae2490A1f1bA1eC9B32fA);
             console.log("addreses ", bjpRaj,congRaj,aapRaj,jdRaj);
             
             await myContract.events.eventVote({
@@ -298,20 +298,20 @@
                 console.log("result : ", result);
                 //await myContract.methods.sendRAJBJP().send({from:0xaDa50cA0B525f202c706791c4c3c802D0dD6Be5E,value: 1e18  },function(err, result){});
                    
-                if (cad=="0x690854ccAae9A9B581B12a40A035b7B5e4788ABe")
+                if (cad=="0x8f017e97A4604f26196ae2490A1f1bA1eC9B32fA")
                 {
                     dac=8;
                     
                 }
-                else if(cad=="0x12cF65d7A64794D157b70B8B7703fDC518c24a30")
+                else if(cad=="0x1De6bf243474474B470F52Bf77352A6D319CCC3c")
                 {
                     dac=9;
                 }
-            else if (cad == "0xb40E9B0198eb166D8FAbCD03F94322C9427b702F") 
+            else if (cad == "0x78fC839Be6d5Fb855C31291b3c0af51AC5e9157c") 
             {
                 dac=10;
             }
-            else if (cad == "0xa54ec29fC6bB89b413A3d04dF16C03D25fb05F3A") 
+            else if (cad == "0x0dbA2fbC717DEb4dD31E118A8D853C36e5E0Ea37") 
             {
                     dac=11;
                 }
@@ -341,22 +341,22 @@
 
      await myContract.methods.sendRAJBJP().send({from:web3.utils.toChecksumAddress(account),value: 1e18  },function(err, result){});
         //myContract.methods.sendRAJBJP().send({from:0xaDa50cA0B525f202c706791c4c3c802D0dD6Be5E,value: 1e18  },function(err, result){})
-        /*if (cad==0x690854ccAae9A9B581B12a40A035b7B5e4788ABe)
+        /*if (cad==0x8f017e97A4604f26196ae2490A1f1bA1eC9B32fA)
                 {  
                   // await myContract.methods.sendRAJBJP().send({from:0xaDa50cA0B525f202c706791c4c3c802D0dD6Be5E,value: 1e18  },function(err, result){})
                     //await myContract.sendRAJBJP({value: 1e18 }, function(err, result){})
                 }
-            else if(cad==0x12cF65d7A64794D157b70B8B7703fDC518c24a30)
+            else if(cad==0x1De6bf243474474B470F52Bf77352A6D319CCC3c)
             {
                 await myContract.methods.sendRAJCong().send({value: 1e18  },function(err, result){})
                   //  await myContract.sendRAJCong({value: 1e18 },function(err, result){})
                 }
-                else if (cad == 0xb40E9B0198eb166D8FAbCD03F94322C9427b702F) 
+                else if (cad == 0x78fC839Be6d5Fb855C31291b3c0af51AC5e9157c) 
                 {
                     myContract.methods.sendRAJJD().send({value: 1e18  },function(err, result){})
                     //await myContract.sendRAJJD( {value: 1e18 },function(err, result){})
                 }
-            else if (cad == 0xa54ec29fC6bB89b413A3d04dF16C03D25fb05F3A) 
+            else if (cad == 0x0dbA2fbC717DEb4dD31E118A8D853C36e5E0Ea37) 
             {
                 myContract.methods.sendRAJAap().send({value: 1e18  },function(err, result){})
                 //await myContract.sendRAJAap( {value: 1e18 },function(err, result){})
@@ -378,9 +378,9 @@
 
     var el = document.getElementById("clickMe");
                 if (el.addEventListener)
-                el.addEventListener("click", Vote (0x690854ccAae9A9B581B12a40A035b7B5e4788ABe), false);
+                el.addEventListener("click", Vote (0x8f017e97A4604f26196ae2490A1f1bA1eC9B32fA), false);
                 else if (el.attachEvent)
-                el.attachEvent('onclick', Vote(0x690854ccAae9A9B581B12a40A035b7B5e4788ABe));
+                el.attachEvent('onclick', Vote(0x8f017e97A4604f26196ae2490A1f1bA1eC9B32fA));
 
      
      
@@ -394,22 +394,22 @@
         
      });
         //myContract.methods.sendRAJBJP().send({from:0xaDa50cA0B525f202c706791c4c3c802D0dD6Be5E,value: 1e18  },function(err, result){})
-        /*if (cad==0x690854ccAae9A9B581B12a40A035b7B5e4788ABe)
+        /*if (cad==0x8f017e97A4604f26196ae2490A1f1bA1eC9B32fA)
                 {  
                   // await myContract.methods.sendRAJBJP().send({from:0xaDa50cA0B525f202c706791c4c3c802D0dD6Be5E,value: 1e18  },function(err, result){})
                     //await myContract.sendRAJBJP({value: 1e18 }, function(err, result){})
                 }
-            else if(cad==0x12cF65d7A64794D157b70B8B7703fDC518c24a30)
+            else if(cad==0x1De6bf243474474B470F52Bf77352A6D319CCC3c)
             {
                 await myContract.methods.sendRAJCong().send({value: 1e18  },function(err, result){})
                   //  await myContract.sendRAJCong({value: 1e18 },function(err, result){})
                 }
-                else if (cad == 0xb40E9B0198eb166D8FAbCD03F94322C9427b702F) 
+                else if (cad == 0x78fC839Be6d5Fb855C31291b3c0af51AC5e9157c) 
                 {
                     myContract.methods.sendRAJJD().send({value: 1e18  },function(err, result){})
                     //await myContract.sendRAJJD( {value: 1e18 },function(err, result){})
                 }
-            else if (cad == 0xa54ec29fC6bB89b413A3d04dF16C03D25fb05F3A) 
+            else if (cad == 0x0dbA2fbC717DEb4dD31E118A8D853C36e5E0Ea37) 
             {
                 myContract.methods.sendRAJAap().send({value: 1e18  },function(err, result){})
                 //await myContract.sendRAJAap( {value: 1e18 },function(err, result){})
